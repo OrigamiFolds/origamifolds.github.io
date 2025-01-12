@@ -1,1 +1,1 @@
-# origamifolds.github
+# origamifolds.github.io
