@@ -45,7 +45,8 @@ a:hover {
 /* override the left margin added by font awesome for the main content list,
 since it must be aligned with the content */
 .fa-ul.main-list {
-	text-align: left;
+	display: inline-block;
+	text-align: center;	
 }
 
 /* list icons */
